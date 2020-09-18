@@ -3,7 +3,7 @@
 Play TickTacktoe with Friends and Bots.
 
 # Play Live
-coming soon
+https://play-ticktacktoe.vercel.app/
 
 ## Build
 Clone the Project
